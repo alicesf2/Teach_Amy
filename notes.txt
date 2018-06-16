@@ -15,5 +15,10 @@ Prompt Commands: *don't need the carrots, this will change
 -"ls": lists everything you have in a certain folder 
 -"git": 
 	-"git clone <repo link> ", copies repository from github to local desktop
-	-"
+	-"git add .", adds everything you updated within that folder to a list
+	-"git commit -m <commit message>"
+	-"git config --global user.email <you@example.com>
+  	git config --global user.name <Your Name>"
+	-"git push", sends your commits to the cloud, enter usename and password as requested
+	-"git --help", for HeLP
 -shortcut: press tab for autofill
