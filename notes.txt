@@ -21,4 +21,6 @@ Prompt Commands: *don't need the carrots, this will change
   	git config --global user.name <Your Name>"
 	-"git push", sends your commits to the cloud, enter usename and password as requested
 	-"git --help", for HeLP
+	-TO PUSH YOUR CODE CHANGES TO CLOUD, CD TO RIGHT DIRECTORY-> GIT ADD . -> GIT COMMIT -M <MESSAGE> -> GIT PUSH
+	-TO PULL CODE FROM THE CLOUD, GET CLONE LINK FROM GITHUB-> CD TO RIGHT DIRECTORY -> 
 -shortcut: press tab for autofill
