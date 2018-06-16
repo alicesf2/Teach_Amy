@@ -1,5 +1,6 @@
 Command Prompt/Terminal Notes:
-Anaconda Prompt
+Anaconda Prompt: finding stuff, storing stuff, searching, downloading packages, run code, for github etc.
+
 -shows all your local files
 -make folders
 -delete files
@@ -7,3 +8,12 @@ Anaconda Prompt
 -update gitHub
 -run code
 -download software development kits (sdks)
+
+Prompt Commands: *don't need the carrots, this will change
+-"cd <folder name>": change directory aka changing folder (but not a file bc that's just a file)
+	-"cd ..", backs up one folder in a nested chain
+-"ls": lists everything you have in a certain folder 
+-"git": 
+	-"git clone <repo link> ", copies repository from github to local desktop
+	-"
+-shortcut: press tab for autofill
