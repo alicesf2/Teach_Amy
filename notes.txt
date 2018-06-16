@@ -1,0 +1,9 @@
+Command Prompt/Terminal Notes:
+Anaconda Prompt
+-shows all your local files
+-make folders
+-delete files
+-search files
+-update gitHub
+-run code
+-download software development kits (sdks)
