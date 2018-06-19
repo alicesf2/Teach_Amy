@@ -1,0 +1,26 @@
+Learn:
+https://www.codecademy.com/learn
+1. Learn HTML
+2. Learn CSS
+3. Make a Website
+
+https://www.w3schools.com/
+4. Learn Bootstrap 4
+**also has a lot of good html, css, javascript references & tutorials
+
+https://www.codecademy.com/learn
+**I think you should learn the basics of coding before you learn Javascript, Java would be easier to start with**
+5. Learn Java
+6. Introduction to Javascript
+
+Documentation:
+HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+Bootstrap: https://getbootstrap.com/docs/4.1/getting-started/introduction/
+Java: https://docs.oracle.com/javase/8/docs/api/
+      https://docs.oracle.com/javase/tutorial/?sess=16e492aba137894101940f7f88d9f51f
+Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Trello:
+-good for collaborating with teams, assigning work
+https://trello.com/

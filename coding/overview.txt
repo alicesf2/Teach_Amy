@@ -1,0 +1,15 @@
+-HTML, CSS, and Javascript are specialized languages for web development
+-HTML: used to create layout of web page, can view directly in browser, connects all outside links, style, functionality together
+-CSS: used to stylize web page, needs to be connected to html file to work
+-Javascript: used to add functionality/interactivity to web page, such as buttons, animations, search bars, etc., needs
+to be connected to HTML
+-Bootstrap: a template that makes it easier to create webpages, has pre-made webpage components such as navigation bars,
+photo carousels, footers
+  -consists of pre-made HTML, CSS, and Javascript files and scripts
+  -must include specific links in HTML header to access (see Bootstrap documentation)
+-Java: general purpose programming language - can be used for a variety of things
+  -completely different from JavaScript
+  -good for teaching fundamentals of coding
+  -need to download development kit onto computer (see Java documentation)
+    -I recommend downloading IntelliJ as your text editor, atom is more for web dev/multiple language support,
+    IntelliJ more specialized for Java
